@@ -7,7 +7,7 @@ and AI-powered tools, making development faster, smarter, and more intuitive.
 ---
 
 ## 🌐 Live Demo
-👉 [https://keen-seahorse-d9c976.netlify.app/](#)
+👉 [(https://ai-model-project.netlify.app/)](#)
 
 ---
 
