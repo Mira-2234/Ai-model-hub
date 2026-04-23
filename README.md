@@ -7,7 +7,7 @@ and AI-powered tools, making development faster, smarter, and more intuitive.
 ---
 
 ## 🌐 Live Demo
-👉 [(https://ai-model-project.netlify.app/)](#)
+👉 [https://ai-model-project.netlify.app/](#)
 
 ---
 
