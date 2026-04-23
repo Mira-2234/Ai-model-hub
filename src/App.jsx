@@ -29,7 +29,7 @@ function App() {
     type="radio" 
     name="my_tabs_1" 
     className={`tab rounded-full w-40 font-medium shadow-lg
-      ${activeTab === "model" ? "bg-gradient-to-r from-pink-400 to-red-500 text-white" : "bg-white"}`}
+      ${activeTab === "model" ? "bg-gradient-to-r from-cyan-300 to-blue-500 text-white" : "bg-white"}`}
     aria-label="Models" 
     defaultChecked
     onClick={()=> setAcriveTab("model")}
@@ -39,7 +39,7 @@ function App() {
     type="radio" 
     name="my_tabs_1" 
     className={`tab rounded-full w-40 font-medium shadow-lg
-      ${activeTab === "cart" ? "bg-gradient-to-r from-pink-400 to-red-500 text-white" : "bg-white"}`}
+      ${activeTab === "cart" ? "bg-gradient-to-r from-cyan-300 to-blue-500 text-white" : "bg-white"}`}
     aria-label={`Cart (${carts.length})`}
     onClick={()=> setAcriveTab("cart")}
   />

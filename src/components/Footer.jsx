@@ -29,7 +29,7 @@ const Footer = () => {
 
           {/* Quick Links */}
           <div className="md:col-span-2">
-            <h3 className="text-red-400 font-semibold mb-6 text-lg">Product</h3>
+            <h3 className="text-blue-400 font-semibold mb-6 text-lg">Product</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
                 <a href="#" className="hover:text-white transition">
@@ -55,7 +55,7 @@ const Footer = () => {
           </div>
 
           <div className="md:col-span-2">
-            <h3 className="text-red-400 font-semibold mb-6 text-lg">Company</h3>
+            <h3 className="text-blue-400 font-semibold mb-6 text-lg">Company</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
                 <a href="#" className="hover:text-white transition">
@@ -81,7 +81,7 @@ const Footer = () => {
           </div>
 
           <div className="md:col-span-3">
-            <h3 className="text-red-400 font-semibold mb-6 text-lg">Legal</h3>
+            <h3 className="text-blue-400 font-semibold mb-6 text-lg">Legal</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
                 <a href="#" className="hover:text-white transition">
