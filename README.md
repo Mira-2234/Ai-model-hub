@@ -1,16 +1,33 @@
-# React + Vite
+## 🧠 AI Concept Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is inspired by modern AI-assisted development, where users interact with intelligent systems to generate 
+results dynamically. It reflects the idea of “vibe coding” — building and enhancing applications using natural language 
+and AI-powered tools, making development faster, smarter, and more intuitive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+👉 https://keen-seahorse-d9c976.netlify.app/(#)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🔍 Browse multiple AI models  
+- 🧠 View model details (price, description, status)  
+- 🛒 Add models to cart  
+- 🎨 Beautiful UI with Tailwind CSS & DaisyUI  
+- 🔥 Dynamic tabs (Models / Cart)  
+- 💳 Subscription system 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
+- 🌼 DaisyUI  
+- 🧩 JavaScript (ES6+)  
+
+---
